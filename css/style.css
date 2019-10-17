@@ -1,4 +1,39 @@
+  .boton-personalizado-2:hover {
+  background-color:#6284F3;
+  }
+
+
 .tamañoUNAM{
 width: auto;
 height: 100px;
+}
+
+.justy{
+	text-align: justify;
+}
+
+  .emergenciaJava{
+    color: white;
+    font-family: 'Assistant', sans-serif;
+    font-size: 30px;
+    background: #0163B7
+  }
+
+.img1{
+    width: auto;
+    height: 120px;	
+}
+
+.img2{
+    width: auto;
+    height: 170px;	
+}
+
+.img0{
+    width: 90%;
+    height: 30%;
+}
+
+.cent{
+	text-align: center;
 }
